@@ -1,4 +1,4 @@
-package com.hisham.githubviewer.ui.theme
+package com.hisham.githubviewer.presentation.theme
 
 import android.app.Activity
 import android.os.Build

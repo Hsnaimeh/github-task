@@ -1,4 +1,4 @@
-package com.hisham.githubviewer.ui.theme
+package com.hisham.githubviewer.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
