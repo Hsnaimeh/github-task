@@ -1,3 +1,16 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Hisham - Github Viewer</string>
+
+    <string name="search_label" tools:ignore="ResourceName">Enter a github user id</string>
+    <string name="search_button_label" tools:ignore="ResourceName">SEARCH</string>
+    <string name="empty_query_error" tools:ignore="ResourceName">Please enter a search query.</string>
+    <string name="loading_status" tools:ignore="ResourceName">Loading...</string>
+    <string name="search_error_status" tools:ignore="ResourceName">Failed to load search results.</string>
+    <string name="stargazers_label" tools:ignore="ResourceName">Stargazers: %1$s</string>
+    <string name="additional_details_labels" tools:ignore="ResourceName">Additional Details:</string>
+    <string name="last_updated_label" tools:ignore="ResourceName">Last updated: %1$s</string>
+    <string name="take_home_title" tools:ignore="ResourceName">Take Home</string>
+
+    <string name="error_loading_failed" tools:ignore="ResourceName">Failed to load Repo Details</string>
+    <string name="repo_details_loading" tools:ignore="ResourceName">Loading Repo Details</string>
 </resources>

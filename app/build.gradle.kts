@@ -26,7 +26,7 @@ android {
 
     buildTypes {
         all {
-            buildConfigField("String", "BASE_URL", "\"${project.properties["BASE_URL"]}\"")
+            buildConfigField("String", "BASE_URL", "\"${"https://api.github.com/"}\"")
         }
         release {
             isMinifyEnabled = false
@@ -66,6 +66,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.kotlinx.coroutines.core)
+    implementation(libs.accompanist.systemuicontroller)
 
     // Coil
     implementation(libs.coil.kt)
