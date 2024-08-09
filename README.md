@@ -9,6 +9,25 @@ Hisham GitHub Viewer is an Android application designed to demonstrate best prac
   - [Architecture Overview](#architecture-overview)
   - [Development Process](#development-process)
   - [Conclusion](#conclusion)
+ 
+## Screenshots
+
+Here are a few screenshots showcasing the app's functionality:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./docs/Screenshot1.png" alt="Home Screen" width="200"/>
+    <img src="./docs/screenshot2.png" alt="Repository List" width="200"/>
+    <img src="./docs/screenshot3.png" alt="Repository Details" width="200"/>
+</div>
+
+## Video Overview
+
+For a complete overview of the app, watch this video:
+<div style="display: flex; justify-content: space-between;">
+    <a href="./docs/video-demo.mov">
+        <img src="./docs/screenshot2.png" alt="App Overview Video" width="200"/>
+    </a>
+</div>
 
 ## Motivation
 
